@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">A beginner developer who strives for constant growth and development in the field of programming.</p>
+<p align="left">I am a beginner developer who strives for constant growth and development in the field of programming.</p>
 
 ###
 
